@@ -1,4 +1,8 @@
 Cherry picking
+<<<<<<< HEAD
+=======
+asasas
+>>>>>>> feature
 
 Hey , First commit in the feature branch
 Committed in the remote branch some new features

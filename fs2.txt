@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Hey , My second commit in the feature branch
@@ -5,6 +6,11 @@ assa
 as
 
 asaszsas
+=======
+Latest commit
+Hey , My second commit in the feature branch
+azsas
+>>>>>>> Modified last commit message
 My second changes 
 My third changes in the order
 asasas
